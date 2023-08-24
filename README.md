@@ -78,12 +78,14 @@ Us deixem alguns enllaços que poden resultar d'ajuda:
 
 [Kaggle](https://www.kaggle.com)
 
-[Repte del que parteix del DailyHack](https://www.kaggle.com/datasets/gti-upm/leapgestrecog)
+[Dataset per al DailyHack](https://www.kaggle.com/datasets/gti-upm/leapgestrecog)
 
-[Solucoions al repte del que paretix el DailyHack](https://www.kaggle.com/datasets/gti-upm/leapgestrecog/code)
+[Solucions al repte del Kaggle](https://www.kaggle.com/datasets/gti-upm/leapgestrecog/code)
 
 [Frases comunes en català](https://www.ielanguages.com/catalan.html)
 
 [Llibreria de python per a crear GUIs](https://docs.python.org/3/library/tkinter.html)
+
+[Llibreria de python per a crear models de ML](https://pytorch.org/)
 
 [How to create an invented language from a gesture classification model](https://youtu.be/V-_O7nl0Ii0?t=17)
